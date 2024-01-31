@@ -58,5 +58,3 @@ These instructions will help you set up and run the application on your local ma
 ## Acknowledgments
 
 - This application is built using Django and leverages a pre-trained machine learning model for survival prediction.
-
-Feel free to customize this README based on your specific application details and structure. Add more sections if needed, such as troubleshooting, deployment instructions, or any additional features.
